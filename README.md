@@ -39,7 +39,7 @@
 <div class="section">
     <h2>💼 Recent Projects</h2>
     <ul>
-        <li><strong>Circuit Simulator:</strong> A Python project that simulates electrical circuits and calculates current and voltage.</li>
+        <li><strong>Circuit Simulator:</strong> Currently working on a Python project that simulates electrical circuits and calculates current and voltage.</li>
         <li><strong>TurtleBot 2i:</strong> Robot control and automation with sensors, including system integration for autonomous navigation.</li>
     </ul>
 </div>
