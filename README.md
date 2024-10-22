@@ -16,8 +16,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original-wordmark.svg"" width="40" height="40" alt="Robotics" />
     </div>
     <ul>
         <li><strong>Programming Languages:</strong> Python, C/C++</li>
@@ -30,6 +28,9 @@
 <div class="section">
     <h2>🌱 What I’m currently studying</h2>
     <ul>
+        <div class="skills">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original-wordmark.svg"" width="40" height="40" alt="Robotics" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" "width="40" height="40" alt="Robotics" />
         <li>Embedded software development</li>
         <li>Sensor integration and motor control for robotics</li>
         <li>Simulation and analysis of complex circuits</li>
